@@ -1,0 +1,18 @@
+{
+  "name": "atom-file-toc",
+  "main": "./lib/atom-file-toc",
+  "version": "0.1.0",
+  "description": "Atom package to create table of contents from the classes and functions in a file",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-file-toc:toggle"
+  },
+  "repository": "https://github.com/machine-uprising/atom-file-toc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
