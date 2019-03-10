@@ -1,7 +1,7 @@
 {
   "name": "atom-file-toc",
   "main": "./lib/atom-file-toc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Atom package to create table of contents from the classes and functions in a file",
   "keywords": [
   ],
