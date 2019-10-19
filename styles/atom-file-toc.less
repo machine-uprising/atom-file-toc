@@ -8,9 +8,29 @@
   height:100%;
   max-height:100%;
   overflow:auto;
+  padding:2px;
+  margin-left:5px;
 }
 
+.atom-file-toc-container {
+  display:flex;
+}
+
+.atom-file-toc-gutter {
+  width:max-content;
+  margin-right:2px;
+}
+
+.atom-file-toc-gutter-item {
+  text-align:right;
+  opacity:0.6;
+  cursor:default;
+  line-height:1.6;
+}
+
+
 .atom-file-toc-item {
+  display:flex;
   cursor:default;
   line-height:1.6;
 }
@@ -18,4 +38,17 @@
 .atom-file-toc-item:hover {
   background-color:@background-color-highlight;
   color:@text-color-highlight;
+}
+
+
+.atom-file-toc-ftoc-1 {
+
+}
+
+.atom-file-toc-gutter {
+
+}
+
+.atom-file-toc-gutter-item {
+
 }
