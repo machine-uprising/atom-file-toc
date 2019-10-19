@@ -25,8 +25,10 @@ In Python:
 In Javascript
 //ftoc-1 This is a Javascript Bookmark
 
-![Still don't have a screenshot of the package in action](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 
+## Example of atom-file-toc
+
+![atom-file-toc example](https://github.com/machine-uprising/atom-file-toc/blob/master/img/atom_file_toc_example.PNG)
 
 
 ## Loading atom-file-toc package in Development
@@ -43,3 +45,7 @@ In Javascript
    ```
 4. If Atom is already open you need to close and reopen for the package to be
    loading into the Packages menu.
+
+
+## Stay Tuned. More updates to come!
+![Still don't have a screenshot of the package in action](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
