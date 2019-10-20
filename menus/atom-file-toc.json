@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "File TOC",
+          "label": "Atom File TOC",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "TOC Toggle",
               "command": "atom-file-toc:toggle"
             }
           ]
