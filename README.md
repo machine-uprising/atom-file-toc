@@ -40,6 +40,7 @@ In Javascript
 
 3. Create a symlink from the package directory. This will create the symlink in
    the .atom/packages directory
+   The .atom/packages directory -> <current_user>/.atom/packages/
    ```
    apm link
    ```
